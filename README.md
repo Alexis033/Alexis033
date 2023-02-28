@@ -29,7 +29,7 @@ Estudiante de Desarrollo Web en JavaScript y React
 
 ## Mis proyectos
 
-- 🔍 [Buscador de películas y más proyectos en react](https://github.com/maikcol-guevara/movie-search-app)
+- 🔍 [Buscador de películas y más proyectos en react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
 - 🌐 [Página web y API para sistema de gestiónn de matriculas en colegios](https://github.com/Alexis033/miweb)
 
 ## Contacto
