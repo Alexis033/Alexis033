@@ -1,16 +1,31 @@
-### Hi there 👋
+¡Hola! Soy Maikcol Guevara 👋
+Estudiante de Desarrollo Web en JavaScript y React
 
-<!--
-**Alexis033/Alexis033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+🎓 Estudiante de Analisis y desarrollo de software en SENA.
+💻 Apasionado por la programación y el desarrollo web.
+🤖 Me encanta experimentar con nuevas tecnologías y herramientas.
+🎮 Me divierto jugando videojuegos y leyendo novelas.
+Mis habilidades
+Lenguajes de programación
+JavaScript
+HTML
+CSS
+Frameworks
+React
+Bootstrap
 
-Here are some ideas to get you started:
+Herramientas
+Visual Studio Code
+GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis proyectos
+🔍 Buscador de películas
+🌐 Página web y API para sistema de gestiónn de matriculas en colegios
+🎮 Tic tac toe
+
+Contacto
+📧 Correo electrónico:guevarafma@gmail.com
+🌐 Perfil de GitHub: github.com/Alexis033
+🌐 Perfil de LinkedIn: linkedin.com/in/maikcol-guevara
+¡Gracias por visitar mi perfil! 😉
