@@ -11,7 +11,7 @@ Estudiante de Desarrollo Web en JavaScript y React
 - 🎮 Me divierto jugando videojuegos y leyendo novelas.
 
 ## **Mis habilidades**
-____________________
+
 ### Lenguajes de programación
 
 - JavaScript
@@ -29,13 +29,13 @@ ____________________
 - GitHub
 
 ## **Mis proyectos**
-________________
+
 
 - 🔍 [Buscador de películas y más proyectos en react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
 - 🌐 [Página web (react) y API (fastapi) para sistema de gestión de matriculas en colegios](https://github.com/Alexis033/miweb)
 
 ## **Contacto**
-__________
+
 - 📧 Correo electrónico: guevarafma@gmail.com
 - 🌐 Perfil de GitHub: [Alexis033](github.com/Alexis033)
 - 🌐 Perfil de LinkedIn: [Maikcol Guevara](linkedin.com/in/maikcol-guevara)
