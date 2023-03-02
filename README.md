@@ -15,6 +15,7 @@ Estudiante de Desarrollo Web en JavaScript y React
 ### Lenguajes de programación
 
 - JavaScript
+- Python
 - HTML
 - CSS
 
