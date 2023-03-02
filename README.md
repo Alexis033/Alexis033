@@ -1,16 +1,17 @@
-# ¡Hola! Soy Maikcol Guevara 👋
+# **¡Hola! Soy Maikcol Guevara** 👋
 
 Estudiante de Desarrollo Web en JavaScript y React
 
-## Sobre mí
-
+## **Sobre mí**
+____________
 - 🎓 Estudiante de Analisis y desarrollo de software en SENA.
+- 🎓 Filósofo de la Universidad Nacional de Colombia.
 - 💻 Apasionado por la programación y el desarrollo web.
 - 🤖 Me encanta experimentar con nuevas tecnologías y herramientas.
 - 🎮 Me divierto jugando videojuegos y leyendo novelas.
 
-## Mis habilidades
-
+## **Mis habilidades**
+____________________
 ### Lenguajes de programación
 
 - JavaScript
@@ -27,15 +28,16 @@ Estudiante de Desarrollo Web en JavaScript y React
 - Visual Studio Code
 - GitHub
 
-## Mis proyectos
+## **Mis proyectos**
+________________
 
 - 🔍 [Buscador de películas y más proyectos en react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
 - 🌐 [Página web (react) y API (fastapi) para sistema de gestión de matriculas en colegios](https://github.com/Alexis033/miweb)
 
-## Contacto
-
+## **Contacto**
+__________
 - 📧 Correo electrónico: guevarafma@gmail.com
 - 🌐 Perfil de GitHub: [Alexis033](github.com/Alexis033)
 - 🌐 Perfil de LinkedIn: [Maikcol Guevara](linkedin.com/in/maikcol-guevara)
 
-¡Gracias por visitar mi perfil! 😉
+## **¡Gracias por visitar mi perfil!** 😉
