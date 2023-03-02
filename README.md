@@ -3,7 +3,7 @@
 Estudiante de Desarrollo Web en JavaScript y React
 
 ## **Sobre mí**
-____________
+
 - 🎓 Estudiante de Analisis y desarrollo de software en SENA.
 - 🎓 Filósofo de la Universidad Nacional de Colombia.
 - 💻 Apasionado por la programación y el desarrollo web.
