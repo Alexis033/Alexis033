@@ -1,6 +1,6 @@
 # **¡Hola! Soy Maikcol Guevara** 👋
 
-Estudiante de Desarrollo Web en JavaScript y React
+Estudiante de *Desarrollo Web* en *JavaScript* y *React*, apasionado de la tecnología y los *puzzles*
 
 ## **Sobre mí**
 
