@@ -23,11 +23,13 @@ Estudiante de *Desarrollo Web* en *JavaScript* y *React*, apasionado de la tecno
 
 - React
 - Bootstrap
+- FastAPI
 
 ### Herramientas
 
 - Visual Studio Code
 - GitHub
+- MYSQL
 
 ## **Mis proyectos**
 
