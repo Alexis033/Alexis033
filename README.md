@@ -37,10 +37,9 @@ I'm a web development student specializing in JavaScript and React. If you're lo
 - 🔍 [Film search engine and more projects in react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
 - 🌐 [Website (react) and API (fastapi) for a school enrollment management system.](https://github.com/Alexis033/miweb)
 
-## **Contacto**
+## **Contact**
 
 - 📧 Email: guevarafma@gmail.com
-- 🌐 GitHub Perfil: [Alexis033](https://www.github.com/Alexis033)
-- 🌐 LinkedIn Perfil: [Maikcol Guevara](https://www.linkedin.com/in/maikcol-guevara/))
+- 🌐 GitHub Profile: [Alexis033](https://www.github.com/Alexis033)
+- 🌐 LinkedIn Profile: [Maikcol Guevara](https://www.linkedin.com/in/maikcol-guevara/))
 
-## **¡Gracias por visitar mi perfil!** 😉
