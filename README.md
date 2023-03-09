@@ -1,18 +1,18 @@
-# **¡Hola! Soy Maikcol Guevara** 👋
+# **Hi! I'm Maikcol Guevara** 👋
 
-Estudiante de *Desarrollo Web* en *JavaScript* y *React*, apasionado de la tecnología y los *puzzles*
+I'm a web development student specializing in JavaScript and React. If you're looking for a passionate and dedicated web developer, you've come to the right place. Additionally, I am a philosopher, an avid novel reader and a enthusiastic video gamer, which gives me a unique and creative perspective when it comes to problem-solving in programming.
 
-## **Sobre mí**
+## **About me**
 
-- 🎓 Estudiante de Analisis y desarrollo de software en SENA.
-- 🎓 Filósofo de la Universidad Nacional de Colombia.
-- 💻 Apasionado por la programación y el desarrollo web.
-- 🤖 Me encanta experimentar con nuevas tecnologías y herramientas.
-- 🎮 Me divierto jugando videojuegos y leyendo novelas.
+- 🎓 Student of software analysis and development at SENA.
+- 🎓 Philosopher at the National University of Colombia.
+- 💻 Passionate about programming and web development.
+- 🤖 I love experimenting with new technologies and tools.
+- 🎮 I have fun playing video games and reading novels.
 
-## **Mis habilidades**
+## **Skills**
 
-### Lenguajes de programación
+### Programming languages
 
 - JavaScript
 - Python
@@ -25,22 +25,22 @@ Estudiante de *Desarrollo Web* en *JavaScript* y *React*, apasionado de la tecno
 - Bootstrap
 - FastAPI
 
-### Herramientas
+### Tools
 
 - Visual Studio Code
 - GitHub
 - MYSQL
 
-## **Mis proyectos**
+## **My projects**
 
 - ⚪✖ [Tic-tac-toe con react](https://tic-tac-toe-snowy-nine.vercel.app/)
-- 🔍 [Buscador de películas y más proyectos en react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
-- 🌐 [Página web (react) y API (fastapi) para sistema de gestión de matriculas en colegios](https://github.com/Alexis033/miweb)
+- 🔍 [Film search engine and more projects in react](https://github.com/Alexis033/Aprendiendo-React/tree/main/projects)
+- 🌐 [Website (react) and API (fastapi) for a school enrollment management system.](https://github.com/Alexis033/miweb)
 
 ## **Contacto**
 
-- 📧 Correo electrónico: guevarafma@gmail.com
-- 🌐 Perfil de GitHub: [Alexis033](https://www.github.com/Alexis033)
-- 🌐 Perfil de LinkedIn: [Maikcol Guevara](https://www.linkedin.com/in/maikcol-guevara/))
+- 📧 Email: guevarafma@gmail.com
+- 🌐 GitHub Perfil: [Alexis033](https://www.github.com/Alexis033)
+- 🌐 LinkedIn Perfil: [Maikcol Guevara](https://www.linkedin.com/in/maikcol-guevara/))
 
 ## **¡Gracias por visitar mi perfil!** 😉
