@@ -12,15 +12,10 @@ I'm a web development student specializing in JavaScript and React. If you're lo
 
 ## **Skills**
 
-### Programming languages
-
 - JavaScript
 - Python
 - HTML
 - CSS
-
-### Frameworks
-
 - React
 - Bootstrap
 - FastAPI
