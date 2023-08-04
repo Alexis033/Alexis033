@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/D4E16AQHIFelV5iaCfQ/profile-displaybackgroundimage-shrink_350_1400/0/1691191495833?e=1696464000&v=beta&t=L3MeppUYEXdIB6TwFZv5n8jy1utRnWafwDVxmYOkkG8)
 # **Hi! I'm Maikcol Guevara** 👋
 
 I'm a web development student specializing in JavaScript and React. If you're looking for a passionate and dedicated web developer, you've come to the right place. Additionally, I am a philosopher, an avid novel reader and a enthusiastic video gamer, which gives me a unique and creative perspective when it comes to problem-solving in programming.
